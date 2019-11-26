@@ -1,0 +1,7 @@
+{
+  "name": "com.bayuadmob.pro",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
